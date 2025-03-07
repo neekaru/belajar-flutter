@@ -1,0 +1,15 @@
+name: kalkulator_async
+description: "A command-line calculator using classes and async operations."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  # No Flutter dependencies needed for CLI app
+
+dev_dependencies:
+  lints: ^3.0.0
+
+# Remove Flutter section
